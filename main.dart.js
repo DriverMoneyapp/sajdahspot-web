@@ -62343,7 +62343,7 @@ T(a){return new A.t4(B.NB,"Sajdah Spot | Athan, Prayer Times & Leicester Masjid 
 A.ES.prototype={
 T(a){var s=this,r=null,q=t.E
 return new A.up(A.anA(A.qu(A.d([s.RJ(),A.qx(new A.hU(B.wi,A.qu(A.d([B.MG,B.uX,A.on("Stay connected with the Leicester Ummah. Sajdah Spot brings you high-precision Athan alerts, real-time prayer timings, and a comprehensive directory for Masjids across Leicester\u2014from Spinney Hills to Evington. Prepare for Ramadan 2026 with our integrated community tools.",A.iu(r,r,B.i.iD(0.7),r,r,r,r,r,r,r,r,18,r,r,r,r,1.6,!0,r,r,r,r,r,r,r,r),B.cn)],q),B.aU,B.c6),r),r,r,r,r,B.za,r),A.qx(A.adS(B.vy,B.BX,30,30),r,r,r,r,B.z7,r),A.qx(A.qu(A.d([B.MC,B.uX,A.adS(B.cr,A.d([s.vW(a,"Privacy Policy","Sajdah Spot is committed to your privacy. We do not track personal data."),s.vW(a,"Terms of Use","Religious and community use only. Data sourced from local Leicester authorities."),s.vW(a,"Support","Email us at: sajdahspot@gmail.com")],q),0,40),B.uY,A.on("\xa9 2026 Sajdah Spot. Serving the Leicester Ummah with Excellence.",A.iu(r,r,B.i.iD(0.3),r,r,r,r,r,r,r,r,12,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r)],q),B.aU,B.c6),B.l,r,r,r,B.zd,1/0)],q),B.aU,B.c6)),r)},
-RJ(){var s=null,r=A.an5(s,s,new A.q_("assets/logo2.png",s,s)),q=A.aku(s,s,B.aH,s,s,s,20,s,s,B.l,s,s,s,B.aH.iD(0.4),new A.cJ(A.q3(40),B.u),s,s,s,s,s)
+RJ(){var s=null,r=A.an5(s,s,new A.q_("assets/web.png",s,s)),q=A.aku(s,s,B.aH,s,s,s,20,s,s,B.l,s,s,s,B.aH.iD(0.4),new A.cJ(A.q3(40),B.u),s,s,s,s,s)
 return A.qx(A.qu(A.d([new A.rz(r,new A.a0e(),160,s),B.HF,B.MD,B.MF,B.uY,new A.AE(!0,new A.a0f(),s,s,s,q,B.N,s,!1,s,!0,s,new A.Gz(B.EI,B.zH,q,s,s),s)],t.E),B.aU,B.c6),s,B.wj,s,s,B.z6,1/0)},
 vW(a,b,c){return A.adz(A.on(b,B.KI,null),new A.a0g(this,a,b,c))},
 YB(a,b,c){var s,r,q=null,p=A.C6(a,!0).c
